@@ -33,6 +33,8 @@ class App extends Component {
     });
   }
 
+  //Added comment for test commit
+
   componentDidMount() {
     fetch('http://proto372.haaga-helia.fi/50007/categories')
     .then(response => response.json())
