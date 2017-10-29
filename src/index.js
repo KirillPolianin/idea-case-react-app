@@ -33,7 +33,7 @@ class App extends Component {
     });
   }
 
-
+//comment
 
   componentDidMount() {
     fetch('http://proto372.haaga-helia.fi/50007/categories')
