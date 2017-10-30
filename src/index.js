@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import hardcodedArrayOfCategories from './hardcoded_array_of_categories';
-import 'whatwg-fetch';
 
 import CategoryItemAddForm from './components/category_item_add_form';
 import CategoryList from './components/category_list';
